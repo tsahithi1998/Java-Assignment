@@ -1,0 +1,46 @@
+selected electives:
+Phython
+selected electives:
+Java Script
+sahithiname=sahithi
+dob=98350653
+PIN=tyrtyr
+Ph no=456456456
+year=4st btech
+state=Karnataka
+special intersts:'nsports
+Music
+selected electives:
+Phython
+selected electives:
+.net
+sahithiname=malathi
+dob=73287402
+PIN=jowffwef
+Ph no=374982374
+year=4st btech
+state=Kerela
+special intersts:'nsports
+Music
+selected electives:
+Java Script
+name=wwwwwww
+dob=wefw
+PIN=wwwwww
+Ph no=wwwwww
+Address=hii hello
+ifvjeoijfper
+dfsjfopwjfpwosjfo
+year=1st btech
+state=Andhra Pradesh
+special intersts:'nNCC
+selected electives:
+Phython
+selected electives:
+.net
+selected electives:
+Java Script
+selected electives:
+Phython
+selected electives:
+.net
